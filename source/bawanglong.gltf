@@ -7164,15 +7164,15 @@
   "images": [
     {
       "name": "Tyrannosaurus__normal",
-      "uri": "bawanglong_img0.png"
+      "uri": "source\bawanglong_img0.png"
     },
     {
       "name": "Tyrannosaurus_baseColor",
-      "uri": "bawanglong_img1.png"
+      "uri": "source\bawanglong_img1.png"
     },
     {
       "name": "Tyrannosaurus__occlusionRoughnessMetallic",
-      "uri": "bawanglong_img2.png"
+      "uri": "source\bawanglong_img2.png"
     }
   ],
   "skins": [
@@ -11474,7 +11474,7 @@
   ],
   "buffers": [
     {
-      "uri": "bawanglong_data.bin",
+      "uri": "source\bawanglong_data.bin",
       "byteLength": 7399996
     }
   ]
